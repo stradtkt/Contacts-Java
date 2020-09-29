@@ -7,18 +7,6 @@
 	<notes>ME</notes>
 </contact>
 <contact>
-	<first_name>Patrick</first_name>
-	<last_name>Smith</last_name>
-	<phone_number>555-555-1234</phone_number>
-	<notes>Developer</notes>
-</contact>
-<contact>
-	<first_name>Mary</first_name>
-	<last_name>Jones</last_name>
-	<phone_number>123-444-1234</phone_number>
-	<notes>Designer</notes>
-</contact>
-<contact>
 	<first_name>John</first_name>
 	<last_name>Smith</last_name>
 	<phone_number>513-344-8978</phone_number>
