@@ -48,8 +48,6 @@ public class ContactData {
         contacts.remove(item);
     }
 
-    // *** Add methods to add/delete/access contacts here ***
-
     public void loadContacts() {
         try {
             // First, create a new XMLInputFactory
